@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+  Updateur.cpp
+  Updateur.vcxproj -> C:\Users\steven\Desktop\Prog\Solo\c++\Updateur\Build\Updateur.exe
